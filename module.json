@@ -1,0 +1,9 @@
+{
+  "id": "invisible-notes",
+  "title": "Invisible Notes",
+  "description": "Hides the frame and background of map notes that use a transparent icon (file name contains \"invisible\") so they stay clickable but unseen. The GM still sees them on hover and on the Notes layer.",
+  "version": "0.1.0",
+  "compatibility": { "minimum": "13", "verified": "14" },
+  "authors": [{ "name": "valentyn" }],
+  "esmodules": ["scripts/main.js"]
+}
